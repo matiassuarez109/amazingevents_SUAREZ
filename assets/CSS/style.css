@@ -12,7 +12,9 @@ li>a {
     font-size: 30px;
 }
 
-
+.card{
+    margin: 0%;
+}
 .cardBody {
     margin-top: 5%;
     margin-bottom: 5%;

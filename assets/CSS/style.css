@@ -12,16 +12,17 @@ li>a {
     font-size: 30px;
 }
 
-.card{
+.card {
     margin: 0%;
+
 }
+
 .cardBody {
     margin-top: 5%;
     margin-bottom: 5%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-
 }
 
 .card-footer {
@@ -45,12 +46,13 @@ footer {
     display: flex;
     justify-content: center;
 }
-main{
+
+main {
     min-height: 800px;
 }
 
-@media screen and (max-width:425px)  {
-    .Arrow{
+@media screen and (max-width:425px) {
+    .Arrow {
         height: 30px;
     }
 }
